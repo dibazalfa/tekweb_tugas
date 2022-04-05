@@ -6,6 +6,7 @@
 </head>
 
 <body>
+    <h1> Step 3. Entering the Submission's Metadata <h1>   
     <div class="top_bar">
         <h1 id="judul1">Information Technology Journal</h1>
     </div>
