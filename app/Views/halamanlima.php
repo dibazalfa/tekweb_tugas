@@ -1,0 +1,4 @@
+ <h1> Step 5. Confirming the Submission </h1>
+ <p> 1. START 2. UPLOAD SUBMISSION 3. ENTER METADATA 4. UPLOAD SUPPLEMENTARY FILES <b>5. CONFIRMATION</b> </p>
+ <p> To submit your manuscript to Information Technology Journal click Finish Submission. The submission's principal contact will receive an aknowledgement by email and will be able to view the submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with Information Technology Journal. </p>
+ <br> <input type="submit" value="Finish Submission"> <input type="submit" value="Cancel">
